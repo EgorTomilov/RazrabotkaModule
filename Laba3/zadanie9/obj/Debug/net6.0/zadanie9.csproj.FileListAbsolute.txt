@@ -1,0 +1,15 @@
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.csproj.AssemblyReference.cache
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.AssemblyInfoInputs.cache
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.AssemblyInfo.cs
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\imarg\source\repos\Laba3\zadanie9\bin\Debug\net6.0\zadanie9.exe
+C:\Users\imarg\source\repos\Laba3\zadanie9\bin\Debug\net6.0\zadanie9.deps.json
+C:\Users\imarg\source\repos\Laba3\zadanie9\bin\Debug\net6.0\zadanie9.runtimeconfig.json
+C:\Users\imarg\source\repos\Laba3\zadanie9\bin\Debug\net6.0\zadanie9.dll
+C:\Users\imarg\source\repos\Laba3\zadanie9\bin\Debug\net6.0\zadanie9.pdb
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.dll
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\refint\zadanie9.dll
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.pdb
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\zadanie9.genruntimeconfig.cache
+C:\Users\imarg\source\repos\Laba3\zadanie9\obj\Debug\net6.0\ref\zadanie9.dll
